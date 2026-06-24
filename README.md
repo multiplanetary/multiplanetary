@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @multiplanetary
 - 🤖 I’m interested in Space, AI/ML 
-- 🚀 humanity is becoming multiplanetary
+- 🚀 Humanity is becoming multiplanetary
 
 <!---
 multiplanetary/multiplanetary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
